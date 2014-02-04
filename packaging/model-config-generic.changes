@@ -1,0 +1,4 @@
+* Tue Feb 04 2014 Corentin Lecouvey <corentin.lecouvey@open.eurogiciel.org> 66fa696
+- Initialize model-config-generic package based on model-config-ivi
+- git branch creation
+
