@@ -22,4 +22,5 @@ cp -f model-config.xml %{buildroot}%{_sysconfdir}/config/model-config.xml
 %files
 %manifest model-config.manifest
 %license LICENSE.APLv2
+%dir %{_sysconfdir}/config
 %config %{_sysconfdir}/config/model-config.xml
